@@ -7,7 +7,7 @@ package point2d;
 
 /**
  *
- * @author k-119
+ * @author khaled
  */
 public class Point2D {
     int x, y;

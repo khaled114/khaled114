@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author k-119
+ * @author khaled
  */
 public class Solution {
 
